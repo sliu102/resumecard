@@ -1,0 +1,21 @@
+# IMPORTANT: Set this to false.
+demo: false
+
+# Theme customization is done on this file instead of _config.yml so that
+# you don't have to restart Jekyll to see changes.
+
+photo: "http://a3.qpic.cn/psb?/V134Ps9S4VO49T/bmkCrS3zzUs4VyZhWGm2C9ozpPuhx4NeCUvS8wIw5Rg!/b/dLAAAAAAAAAA&bo=gAKAAgAAAAAFByQ!&rf=viewer_4"
+name: "Meng Xia"
+copy: "Current Ph.D. Candidate majoring in Biostatistics, in University of Michigan"
+
+# Color scheme based on http://www.materialui.co/colors.
+# Possible values:
+# - default
+# - red
+# - pink
+# - brown
+# - blue
+# - purple
+# - teal
+# - green
+color: pink
